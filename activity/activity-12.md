@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Design Clinic 2
+title: AI-Assisted Teaching Materials Sprint
 permalink: /activity/12/
 ---
 
-# Design Clinic 2
+# AI-Assisted Teaching Materials Sprint
 
-This afternoon activity might be a second design-clinic worksheet focused on revision and structured critique.
+This afternoon activity might use AI tools to rapidly draft or revise lecture materials, lab instructions, rubrics, instructor notes, and student-facing handouts, followed by critical review.

@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Privacy and Governance Worksheet
+title: Responsible Use and Governance Workshop
 permalink: /activity/08/
 ---
 
-# Privacy and Governance Worksheet
+# Responsible Use and Governance Workshop
 
-This afternoon activity might be a privacy or governance worksheet that uses a simulation or case study to prompt reflection.
+This afternoon activity might ask participants to revise an AI+cybersecurity assignment with responsible AI-use expectations, disclosure requirements, acceptable-assistance boundaries, and governance constraints.

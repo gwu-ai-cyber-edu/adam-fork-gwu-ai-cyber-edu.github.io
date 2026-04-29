@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Red Team Lab
+title: AI Systems Security Lab
 permalink: /activity/07/
 ---
 
-# Red Team Lab
+# AI Systems Security Lab
 
-This afternoon activity might be a red-team exercise against an AI or LLM application, followed by a brief defense pass.
+This afternoon activity might ask participants to analyze an AI-enabled system for prompt injection, data leakage, deployment vulnerabilities, and basic defensive design choices.

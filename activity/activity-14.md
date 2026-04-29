@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Showcase Prep
+title: Showcase and Transition Planning
 permalink: /activity/14/
 ---
 
-# Showcase Prep
+# Showcase and Transition Planning
 
-This afternoon activity might be a short showcase-preparation worksheet that helps participants plan the final practicum presentation.
+This all-day activity might include module showcases, structured critique, Phase 2 revision planning, and a Phase 3 teaching-demo plan.

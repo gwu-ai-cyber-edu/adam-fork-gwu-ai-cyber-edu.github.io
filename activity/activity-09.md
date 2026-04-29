@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Build-Break-Fix Lab
+title: Privacy Risk Review
 permalink: /activity/09/
 ---
 
-# Build-Break-Fix Lab
+# Privacy Risk Review
 
-This afternoon activity might be a build-break-fix exercise where teams build, attack, and patch AI-enabled security tools.
+This afternoon activity might ask participants to review a proposed AI/ML cybersecurity lab or dataset for privacy risks, sensitive data handling, leakage paths, and classroom-safe simplifications.
