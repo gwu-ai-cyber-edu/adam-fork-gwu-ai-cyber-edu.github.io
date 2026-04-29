@@ -67,6 +67,19 @@ section {
   padding-top: 10px; /* Extra breathing room */
 }
 
+.schedule-warning {
+  border: 2px solid #b00020;
+  background-color: #fff5f5;
+  color: #7a0016;
+  padding: 14px 16px;
+  margin: 18px 0 24px;
+  border-radius: 4px;
+}
+
+.schedule-warning strong {
+  font-weight: bold;
+}
+
 /* 4. HIDE GITHUB SIDEBAR JUNK */
 header ul, 
 header p.view,
