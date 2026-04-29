@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Design Clinic 1
+title: Initial Prototype and Peer Review
 permalink: /activity/11/
 ---
 
-# Design Clinic 1
+# Initial Prototype and Peer Review
 
-This afternoon activity might be the first peer clinic worksheet for drafting and critiquing the course module.
+This afternoon activity might ask participants to draft an initial module prototype, identify dataset and realism constraints, and receive structured peer feedback on concept fit and feasibility.

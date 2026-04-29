@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Assessment Review
+title: Module Refinement Studio
 permalink: /activity/13/
 ---
 
-# Assessment Review
+# Module Refinement Studio
 
-This afternoon activity might be an assessment worksheet for checking alignment between objectives, activities, and grading.
+This all-day studio might help participants refine module prototypes through learning-objective alignment, assessment design, scaffolding, misconception planning, adaptation, and structured peer review.

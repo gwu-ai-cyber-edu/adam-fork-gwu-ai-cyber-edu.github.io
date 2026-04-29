@@ -1,9 +1,9 @@
 ---
 layout: default
-title: CTF Synthesis Worksheet
+title: Build-it / Break-it / Fix-it Lab
 permalink: /activity/10/
 ---
 
-# CTF Synthesis Worksheet
+# Build-it / Break-it / Fix-it Lab
 
-This afternoon activity might be a CTF-based worksheet or challenge set that helps translate competition-style security work into a classroom assignment.
+This all-day activity might have teams build an AI-enabled security artifact or teaching lab, exchange it for critique or attack, then fix the artifact and document what changed.
