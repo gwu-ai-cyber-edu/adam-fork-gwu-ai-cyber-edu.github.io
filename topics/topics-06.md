@@ -6,7 +6,7 @@ permalink: /topic/06/
 
 # Applying ML to Cybersecurity Problems
 
-This session moves from general machine learning concepts into security-first decision making. Participants examine where classification and related AI techniques fit cybersecurity work such as intrusion detection, phishing detection, malware classification, SOC triage, and threat intelligence, while keeping the focus on operational constraints rather than model novelty.
+This session moves from general machine learning concepts into security-first decision making. Participants examine where classification and related AI techniques fit cybersecurity work such as intrusion detection, phishing detection, malware classification, SOC triage, and threat intelligence, while keeping the focus on application patterns, operational constraints, and model novelty only where it matters.
 
 By the end of the session, participants should be able to evaluate whether a security task is a good fit for ML, explain why metrics such as precision and recall represent real security tradeoffs, and translate these ideas into classroom activities that prepare students for hands-on security classifier work.
 
@@ -22,11 +22,13 @@ By the end of the session, participants should be able to evaluate whether a sec
 
 | Time | Segment | Focus |
 | :--- | :--- | :--- |
-| 0:00-0:35 | Presentation 1 | Security foundations, traditional approaches, and where ML fits |
-| 0:35-0:55 | Discussion 1 | Security Task to ML Fit Spectrum |
-| 0:55-1:15 | Break | 20-minute break |
-| 1:15-1:45 | Presentation 2 | Metrics, operational risk, trust, data, and system implications |
-| 1:45-2:05 | Discussion 2 | Rapid micro-module design |
+| 0:00-0:25 | Presentation 1 | Security foundations, duality, and where AI/ML fits |
+| 0:25-0:35 | Presentation 1 follow-up | Application patterns and definitions |
+| 0:35-0:55 | Discussion 1 | Pattern Mapping and AI/ML Fit |
+| 0:55-1:05 | Presentation 1 follow-up | Security application patterns and seminal examples |
+| 1:05-1:25 | Break | 20-minute break |
+| 1:25-1:45 | Presentation 2 | Metrics, operational risk, trust, data, and system implications |
+| 1:45-1:55 | Discussion 2 | Rapid micro-module design |
 
 ## Morning Outline
 
@@ -34,6 +36,7 @@ By the end of the session, participants should be able to evaluate whether a sec
 - Security problem spaces: detection, prevention, response, and intelligence
 - Limits of rules, signatures, and brittle manual workflows
 - ML as pattern recognition under uncertainty, with emphasis on classification
+- Application patterns: classify, rank, cluster, summarize, retrieve, explain, and sensemake
 - Security examples: intrusion detection, phishing detection, malware classification, and LLM-supported triage
 - Metrics as decisions: precision, recall, alert fatigue, missed attacks, and human review
 - Trust and data concerns: over-trust, under-trust, data leakage, retrieval exposure, and model/API dependencies
@@ -41,11 +44,11 @@ By the end of the session, participants should be able to evaluate whether a sec
 
 ## Discussion Activities
 
-### Security Task to ML Fit Spectrum
+### Security Tasks, Patterns, and AI/ML Fit
 
-Small groups generate cybersecurity tasks from their own teaching or professional contexts, select 2-3 examples, and classify each task as a good fit for ML, possible with constraints, or poor fit for ML. Groups identify the likely type of ML, key challenges, and the role a human should play in the workflow.
+Small groups generate cybersecurity tasks from their own teaching or professional contexts, select 2-3 examples, connect each task to the closest application pattern and a possible AI/ML role, and classify each as a strong fit, possible with constraints, or poor fit. Groups also sketch an in-class use and a guardrail or human review step.
 
-[Download worksheet: ML Fit Spectrum PDF](/assets/worksheets/topic-06-ml-fit-spectrum.pdf)
+[Download worksheet: Security Tasks, Patterns, and AI/ML Fit PDF](/assets/worksheets/topic-06-ml-fit-spectrum.pdf)
 
 ### Rapid Micro-Module Design
 
