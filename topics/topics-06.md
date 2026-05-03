@@ -28,7 +28,7 @@ By the end of the session, participants should be able to evaluate whether a sec
 | 0:55-1:05 | Presentation 1 follow-up | Security application patterns and seminal examples |
 | 1:05-1:25 | Break | 20-minute break |
 | 1:25-1:45 | Presentation 2 | Metrics, operational risk, trust, data, and system implications |
-| 1:45-1:55 | Discussion 2 | Rapid micro-module design |
+| 1:45-2:05 | Discussion 2 | Teaching seed design |
 
 ## Morning Outline
 
@@ -50,11 +50,11 @@ Small groups generate cybersecurity tasks from their own teaching or professiona
 
 [Download worksheet: Security Tasks, Patterns, and AI/ML Fit PDF](/assets/worksheets/topic-06-ml-fit-spectrum.pdf)
 
-### Rapid Micro-Module Design
+### Teaching Seed Design
 
-Teams draft a short, non-lab classroom module that teaches one ML-for-security tradeoff. Each team identifies learning objectives, course placement, an in-class activity, a key tradeoff such as precision versus recall or trust versus automation, and a quick assessment check.
+Teams draft a short, non-lab teaching seed that teaches one ML-for-security tradeoff. Each team identifies a class example, a teaching moment, a student task, a key tradeoff such as precision versus recall or trust versus automation, and a quick assessment check.
 
-[Download worksheet: Micro-Module Design PDF](/assets/worksheets/topic-06-micro-module-design.pdf)
+[Download worksheet: Teaching Seed Design PDF](/assets/worksheets/topic-06-teaching-seed-design.pdf)
 
 ## Key Diagrams
 
